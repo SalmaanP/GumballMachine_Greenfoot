@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GumballMachine
+comment0.text=\r\n\ @author\ Salmaan\r\n
+comment1.params=in
+comment1.target=void\ setinspector(Inspector)
+comment2.params=
+comment2.target=GumballMachine()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=c
+comment4.target=void\ removeCoin(Coin)
+comment5.params=
+comment5.target=void\ moveGumball()
+comment6.params=msg\ x\ y
+comment6.target=void\ displayMessage(java.lang.String,\ int,\ int)
+numComments=7
